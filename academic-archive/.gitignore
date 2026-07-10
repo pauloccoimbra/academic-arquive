@@ -1,0 +1,23 @@
+# SO / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Diversos
+*.tmp
+~$*
